@@ -4,3 +4,5 @@ function saludo(){
 }
 
 document.getElementById("saludo").addEventListener("click", saludo);
+
+let estabilidad = 100;
