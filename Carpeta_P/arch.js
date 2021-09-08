@@ -14,4 +14,8 @@ function sumar(a,b){
 
 }
 console.log(sumar);
+function multimplicar() {
+    
+    console.log("La multiplicacion");
+}
 
